@@ -1,0 +1,37 @@
+﻿Number,Tag,wordnet_tag,Description
+1,CC,o,Coordinating conjunction
+2,CD,o,Cardinal number
+3,DT,o,Determiner
+4,EX,o,Existential there
+5,FW,o,Foreign word
+6,IN,o,Preposition or subordinating conjunction
+7,JJ,a,Adjective
+8,JJR,a,"Adjective, comparative"
+9,JJS,a,"Adjective, superlative"
+10,LS,o,List item marker
+11,MD,o,Modal
+12,NN,n,"Noun, singular or mass"
+13,NNS,n,"Noun, plural"
+14,NNP,n,"Proper noun, singular"
+15,NNPS,n,"Proper noun, plural"
+16,PDT,o,Predeterminer
+17,POS,o,Possessive ending
+18,PRP,o,Personal pronoun
+19,PRP$,o,Possessive pronoun
+20,RB,r,Adverb
+21,RBR,r,"Adverb, comparative"
+22,RBS,r,"Adverb, superlative"
+23,RP,o,Particle
+24,SYM,o,Symbol
+25,TO,o,to
+26,UH,o,Interjection
+27,VB,v,"Verb, base form"
+28,VBD,v,"Verb, past tense"
+29,VBG,v,"Verb, gerund or present participle"
+30,VBN,v,"Verb, past participle"
+31,VBP,v,"Verb, non-3rd person singular present"
+32,VBZ,v,"Verb, 3rd person singular present"
+33,WDT,o,Wh-determiner
+34,WP,o,Wh-pronoun
+35,WP$,o,Possessive wh-pronoun
+36,WRB,o,Wh-adverb
